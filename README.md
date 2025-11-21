@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">Kerem Yunus Parlakyiğit</h1>
+  <h3 align="center">Computer Engineering Student</h3>
+</div>
 
-<!--
-**KYPHUB/KYPHUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+  > **Focus Areas:** Data Science, Machine Learning, Image Processing
+  
+  > **Currently Working On:** AI Integrated Fitness System (.NET) & Flutter-based Entertainment Discovery App (API-driven)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="mailto:parlakyigitkere@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-parlakyigitkere%40gmail.com-black?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</div>
+
+<br/>
+<br/>
+
+<h3 align="center">🛠 Languages</h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,py,mysql,cpp,java,js,html,css,dart&perline=9" />
+  </a>
+</div>
+
+<br/>
+
+<h3 align="center">⚙️ Tools & Frameworks</h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,tensorflow,pytorch,opencv,sklearn,git,flutter,unity,androidstudio&perline=9" />
+  </a>
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KYPHUB&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=999" height="150" alt="languages" />
+</div>
